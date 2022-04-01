@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Jennifer Packer",
+        "exhibitname": "The Eye is Not Satisfied with Seeing",
+        "category": "Modern",
+        "date": "March 13-May 6"
+        "city": "New York",
+        "state": "New York",
+        "id": 1001,
+        "isFeatured": true,
+        "isFavorite": true,
+        "location": "Whitney Museum of Art",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "In her superb portraits and paintings of flowers, Jennifer Packer is assured with her line, fearless in her use of color, and unusually gifted at grounding emotion in the sort of precise visual details (snake-eyed dice, a whirring fan, a manicured fingernail) that put viewers on intimate terms with the present moment. ",
+        "imageName": "jenniferpacker"
+    },
+    
+        {
+        "name": "Hilary Pecis",
+        "exhibitname": "N/A",
+        "category": "Modern",
+        "March 13-May 6"
+        "city": "New York",
+        "state": "New York",
+        "id": 1002,
+        "isFeatured": true,
+        "isFavorite": true,
+        "location": "Uffner Gallery",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "The subjects of the Los Angeles painter’s eleven new acrylic-on-linen works, all made in 2021-22, are the visual rhythms of everyday life and their happenstance patterns and poetry. Pecis paints big—at six feet high, her pieces are taller than she is—but in tone she’s an intimist, carrying on the tradition of Édouard Vuillard and Maurice Denis, and not simply because her eye is on the decorative pleasures of home.",
+        "imageName": "hilarypecis"
+    },
+
+            {
+        "name": "Joe Bradley",
+        "exhibitname": "N/A",
+        "category": "Modern",
+        "March 3-April 30"
+        "city": "New York",
+        "state": "New York",
+        "id": 1003,
+        "isFeatured": true,
+        "isFavorite": true,
+        "location": "Petzel Gallery",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "The American painter Joe Bradley first made his mark two decades ago, with a wily non-style that might be described as painting in spite of itself. He arranged colorful monochrome panels into configurations whose associations toggled between Minimalist abstraction and eight-bit video games; they landed in the 2008 Whitney Biennial.",
+        "imageName": "joebradley"
+    },
+
+                {
+        "name": "Mungo Thomson",
+        "exhibitname": "N/A",
+        "category": "Modern",
+        "March 5-April 16"
+        "city": "New York",
+        "state": "New York",
+        "id": 1004,
+        "isFeatured": true,
+        "isFavorite": true,
+        "location": "Karma Gallery",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Information overload verges on the sublime in “Time Life,” an exhibition of seven ingenious, relentless stop-motion videos by the California conceptualist Mungo Thomson, on view at Karma through April 16. The show borrows its title and some of its visuals from Time-Life Books, a direct-mail imprint founded, in the early sixties, to showcase the vast photo archives of Time and Life. (The series’ popularity waned with the rise of the Internet.)",
+        "imageName": "mungothomson"
+    },
+
+                    {
+        "name": "Baseera Khan",
+        "exhibitname": "N/A",
+        "category": "Modern",
+        "October 1-July 22"
+        "city": "New York",
+        "state": "New York",
+        "id": 1005,
+        "isFeatured": true,
+        "isFavorite": true,
+        "location": "Brooklyn Museum",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Baseera Khan contains multitudes. They are a queer Indian-Afghani-East African American, a Muslim woman, a Texas native, and the winner of the 2021 UOVO Prize, awarded annually to an emerging Brooklyn-based artist. In this related exhibition at the Brooklyn Museum, the ambitious artist moves through mediums like a snake shedding skins, using performance, sculpture, installation, collage, textile, drawing, and photography—and that is an incomplete list—to confront colonial histories. In “Law of Antiquities,” a spirited series of ink-jet prints, Khan digitally layers still-life and self-portraiture, performing a conceptual sleight of hand with objects from the museum’s Arts of the Islamic World collection. ",
+        "imageName": "baseerakhan"
+    },
+    
+                        {
+        "name": "H.R. Giger",
+        "exhibitname": "N/A",
+        "category": "Modern",
+        "January 30-April 3"
+        "city": "New York",
+        "state": "New York",
+        "id": 1006,
+        "isFeatured": true,
+        "isFavorite": true,
+        "location": "Lomex Gallery",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "description": "Recently, the young American painter Kye Christensen-Knowles had a memorable show—virtuosic, funny, extremely perverse—at Lomex, in Tribeca. Its pileup of references demolished cultural hierarchies with the paranoid logic of the extremely online, establishing a direct lineage from Old Master studies of insects to the decadent classicism of Balthus and Christian Schad to the airbrushed necromancy of H. R. Giger, the Swiss surrealist best known for designing the chest-rupturing, face-clamping monsters in the movie “Alien,” for which he won an Academy Award, in 1979.  ",
+        "imageName": "hrgiger"
+    },
+    
+
+
+
+    ]
